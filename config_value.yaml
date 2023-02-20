@@ -1,0 +1,7 @@
+crowdstrikeConfig:
+    clientID: ""
+    clientSecret: ""
+    clusterName: K1Test
+    env: us-2
+    cid: 26eab3bb3bad4456aa60f329bc564572
+    dockerAPIToken: AKCp8nGuMm7XmbTceoPzF8HjfaymNpYbQDwP3neBtDuVMeC8LHXMKbtYqiCTfxNucp9QJSmU3
